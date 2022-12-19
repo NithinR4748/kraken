@@ -1,1 +1,2 @@
 # kraken
+Detached head state
